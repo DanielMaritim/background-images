@@ -1,0 +1,13 @@
+body {
+	background-image:url("avengers.jpg");
+	text-align:center;
+	margin-top:50px;
+
+}
+h1 {
+		color:white;
+}
+p {
+	color:pink;
+}
+/* one uses the url with the backgroung image attribute when setting up a background image.*/
